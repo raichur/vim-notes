@@ -4,6 +4,9 @@ We already know how to navigate the document using the h, j, k, and l keys, but 
 
 - The ``w`` key allows you to go one word forward.
 - The ``b`` key allows you to go one word backward.
-- The ``W`` key allows you to go to the next string separated by a “ ”.
-- The ``$`` key takes you to the beginning of the line.
-- The ``^`` key takes you to the end of the line.
+- The ``W`` key allows you to go to the next string separated by a “ ”. The same goes with the ``B`` key.
+- The ``^`` key takes you to the beginning of the line.
+- The ``$`` key takes you to the end of the line.
+- ``gg`` goes straight to the beginning of the file.
+- ``G`` goes to the end of the file.
+- ``{`` and ``}`` can be used to move between paragraphs at a time.
