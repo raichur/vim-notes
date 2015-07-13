@@ -16,6 +16,6 @@ We already know how to navigate the document using the h, j, k, and l keys, but 
 - ``T`` followed by a value will find the last occurance of that value in the line, and will put the cursor one character before it.
 
 
-# Repeater
+## Repeater
 
 The repeater allows for faster movement in Vim, and can be applied to most commands. You can prepend a number to a command to a vim command to specify how many times you want to run it. For example, you can use ``4w`` to go four words forward.
