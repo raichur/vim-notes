@@ -10,3 +10,7 @@ We already know how to navigate the document using the h, j, k, and l keys, but 
 - ``gg`` goes straight to the beginning of the file.
 - ``G`` goes to the end of the file.
 - ``{`` and ``}`` can be used to move between paragraphs at a time.
+- ``f`` followed by a value will find the first occurance of that value following it in the line.
+- ``F`` followed by a value will find the last occurance of that value in the line.
+- ``t`` followed by a value will find the first occurance of that value following it in the line, and put the cursor one character before it.
+- ``T`` followed by a value will find the last occurance of that value in the line, and will put the cursor one character before it.
