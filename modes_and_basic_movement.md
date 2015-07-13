@@ -16,4 +16,15 @@ To save a file in vim, type ``:write WELCOME.txt`` (WELCOME.txt being an example
 
 # Quitting Vim
 
-To quit Vim, type ``:q`` after saving.
+To quit Vim, type ``:q`` after saving. Use the command ``:wq`` to save and quit at once.
+
+# Basic Movement
+
+The h, j, k, and l keys are used to navigate the Vim document. This makes it easier to navigate (less finger movement) compared to using the arrow keys.
+
+h: left
+j: down
+k: up
+l: right
+
+
