@@ -14,4 +14,6 @@ To leave the insert mode, just press ``esc``.
 
 To save a file in vim, type ``:write WELCOME.txt`` (WELCOME.txt being an example, of course).
 
+# Quitting Vim
 
+To quit Vim, type ``:q`` after saving.
