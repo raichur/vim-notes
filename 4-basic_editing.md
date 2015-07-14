@@ -7,5 +7,7 @@
 - ``cw`` will put you in insert mode and delete the word under it.
 - ``dd`` will delete the entire line.
 - ``cc`` will delete the entire line and put you in insert mode.
-- ``ct"`` will delete everything inside " double quotes" and put it insert mode. " could be replaced with any other character for the intended effect.
+- ``ct"`` will delete everything inside (until the next double quote) "double quotes" and put it insert mode. " could be replaced with any other character for the intended effect.
+- ``ci{`` will delete everything around it in {curly braces}. 
+- ``ca{`` will delete everything inside it in {curly braces}.
 
