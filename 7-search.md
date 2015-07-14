@@ -6,4 +6,8 @@ To search forward, press ``m``. To go back, ``M``.
 
 Type ``:set incsearch`` for incremental search.
 
+Type ``:set ignorecase`` to ignore case sensitivity in search.
 
+Type ``:set hlsearch`` to highlight search results.
+
+You can use ``/.[aeiou]`` to search for any character followed by vowel, for example. The ``.`` denotes “anything”.
