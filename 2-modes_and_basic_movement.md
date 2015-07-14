@@ -22,9 +22,9 @@ To quit Vim, type ``:q`` after saving. Use the command ``:wq`` to save and quit 
 
 The h, j, k, and l keys are used to navigate the Vim document. This makes it easier to navigate (less finger movement) compared to using the arrow keys.
 
-h: left
-j: down
-k: up
-l: right
+``h``: left
+``j``: down
+``k``: up
+``l``: right
 
 
