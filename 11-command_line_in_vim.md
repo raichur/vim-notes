@@ -9,7 +9,7 @@ To invoke commands from within the shell:
 :!<command>
 ```
 
-Replace <command> with actual command, of course.
+Replace ``<command>`` with actual command, of course.
 
 You can also use the output from the command line in your Vim file, you can use the read command.
 
@@ -23,3 +23,4 @@ will output the date, like so:
 Tue Jul 14 12:35:19 IST 2015
 ```
 
+You can use this to convert coffeescript to JS, HAML to HTML, Markdown to HTML, etc.
