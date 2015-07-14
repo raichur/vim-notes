@@ -35,4 +35,6 @@ Then we can go to the next line:
 j0
 ```
 
+To repeat this macro, we can type ``@`` followed by what you registered it as (in my case ``a``).
+
 _OMG HOW AWESOME!_
