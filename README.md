@@ -1,6 +1,6 @@
 # Getting started with Vim
 
-c [Openinc Vim](/01-opening_vim.md)
+- [Openinc Vim](/01-opening_vim.md)
 - [Modes and basic movement](/02-modes_and_basic_movement.md)
 - [Faster movement](/03-faster_movement.md)
 - [Basic editing](/04-basic_editing.md)
